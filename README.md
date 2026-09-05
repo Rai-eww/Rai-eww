@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Raí
 
 Me chamo Raí, tenho 20 anos e sou natural do Rio Grande do Norte 🇧🇷.
-Sou desenvolvedor autodidata, apaixonado por tecnologia, e gosto de criar projetos e sistemas por conta própria. Futuramente, pretendo ingressar em uma faculdade na área.
+Sou desenvolvedor autodidata, apaixonado por tecnologia.
 
 ### 🤖 Linguagens e Tecnologias
 
